@@ -1,3 +1,7 @@
+
+
+
+
 /*Genellikle "regex" veya "regexp" olarak kısaltılan normal ifadeler, programcıların metni eşleştirmesine, 
 aramasına ve değiştirmesine yardımcı olan kalıplardır.Bu kursta, istediğiniz herhangi bir metni eşleştirmek için özel karakterleri, 
 yakalama gruplarını, olumlu ve olumsuz bakış açılarını ve diğer teknikleri nasıl kullanacağınızı öğreneceksiniz.
@@ -370,3 +374,7 @@ console.log(degiss);                                 //cikti:three two one
 let hello = "   Hello, World!  ";
 let wsRegex = /^\s+|\s+$/g;                     //bastaki ve sondaki bosluklari secti!
 let degisss = hello.replace(wsRegex, "");       //bosluklari sifir ile degisti gibi...
+
+
+
+
