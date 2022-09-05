@@ -369,3 +369,8 @@ function addFriend(userObj, friend) {
 }
 
 console.log(addFriend(user, 'Pete'));             //cikti: [ 'Sam', 'Kira', 'Tomo', 'Pete' ]
+
+
+
+
+
